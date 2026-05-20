@@ -55,3 +55,17 @@ python main.py \
 ```
 
 Defaults for every flag are visible via `python main.py --help`.
+
+
+## Citations
+
+```
+@InProceedings{Shin_2026_WACV,
+    author    = {Shin, Jeongwan and Hur, Chan and Cho, Seongmin and Choi, Jaeho and Park, Hyeyoung},
+    title     = {ReFineVQA: Iterative Refinement of Video Description via Feedback Generation for Video Question Answering},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {7647-7657}
+}
+```
